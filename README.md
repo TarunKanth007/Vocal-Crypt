@@ -8,9 +8,7 @@ This tool is designed for offline-capable secure communication. It uses randomiz
 
 ## 📸 Project Preview
 
-![StegoVoice Demo Screenshot](https://example.com/path-to-your-screenshot.png)
-
-[🎬 Watch Demo Video](assets/demo.mp4)
+https://github.com/user-attachments/assets/d9bc2f80-9ff4-4a97-8c76-b40a42d66306
 
 _Above: Sample encryption and decryption interface_
 
